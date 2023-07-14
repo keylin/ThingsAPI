@@ -1,4 +1,4 @@
-= Things-x
+ThingsX
 
 image:https://img.shields.io/badge/vert.x-4.4.4-purple.svg[link="https://vertx.io"]
 
