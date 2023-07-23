@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package tx.network.mqtt.ssl;
+package tx.gateway.transport.mqtt.ssl;
 
 import io.vertx.core.AbstractVerticle;
 import io.vertx.core.Launcher;

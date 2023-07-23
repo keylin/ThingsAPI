@@ -6,7 +6,7 @@ import io.vertx.junit5.VertxTestContext;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 import org.junit.jupiter.api.extension.ExtendWith;
-import tx.network.http.Server;
+import tx.gateway.transport.http.Server;
 
 @ExtendWith(VertxExtension.class)
 public class HttpServer {

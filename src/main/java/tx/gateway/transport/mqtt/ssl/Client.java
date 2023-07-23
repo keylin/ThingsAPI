@@ -1,4 +1,4 @@
-package tx.network.mqtt.ssl;
+package tx.gateway.transport.mqtt.ssl;
 
 import io.netty.handler.codec.mqtt.MqttQoS;
 import io.vertx.core.AbstractVerticle;

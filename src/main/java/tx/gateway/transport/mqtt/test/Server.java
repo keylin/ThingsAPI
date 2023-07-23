@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package tx.network.mqtt.test;
+package tx.gateway.transport.mqtt.test;
 
 import io.netty.handler.codec.mqtt.MqttQoS;
 import io.vertx.core.AbstractVerticle;

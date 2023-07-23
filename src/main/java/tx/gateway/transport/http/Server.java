@@ -1,4 +1,4 @@
-package tx.network.http;
+package tx.gateway.transport.http;
 
 import io.vertx.core.AbstractVerticle;
 import io.vertx.core.Promise;

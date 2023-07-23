@@ -1,4 +1,4 @@
-package tx.network.tcp.test;
+package tx.gateway.transport.tcp.test;
 
 import io.vertx.core.AbstractVerticle;
 import io.vertx.core.Launcher;
